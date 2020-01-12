@@ -7,6 +7,14 @@ section.resume-section {
       min-width: none;
     }
   }
+
+  .col-md-8 {
+    display: flex;
+
+    .card-body {
+      align-self: center;
+    }
+  }
 }
 @media (min-width: 768px) {
   section.resume-section {
@@ -28,4 +36,8 @@ section.resume-section {
 
 #about {
   color: $gray-800;
+  background-image: url('../img/background_r01.jpg'); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: 100% 0%;
 }

@@ -142,6 +142,14 @@ section.resume-section .resume-item .resume-date {
   min-width: none;
 }
 
+section.resume-section .col-md-8 {
+  display: flex;
+}
+
+section.resume-section .col-md-8 .card-body {
+  align-self: center;
+}
+
 @media (min-width: 768px) {
   section.resume-section {
     min-height: 100vh;
@@ -161,6 +169,10 @@ section.resume-section .resume-item .resume-date {
 
 #about {
   color: #343a40;
+  background-image: url("../img/background_r01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 0%;
 }
 
 .bg-primary {
