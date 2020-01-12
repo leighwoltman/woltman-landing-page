@@ -175,6 +175,10 @@ section.resume-section .col-md-8 .card-body {
   background-position: 100% 0%;
 }
 
+#skills .row {
+  margin-bottom: 1.5em;
+}
+
 .bg-primary {
   background-color: #BD5D38 !important;
 }
