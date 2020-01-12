@@ -11,6 +11,12 @@
   }
 }
 
+.img-profile {
+  max-width: 3rem;
+  max-height: 3rem;
+  border: 0.1rem solid fade-out($white, 0.8);
+}
+
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;

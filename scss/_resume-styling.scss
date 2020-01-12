@@ -39,7 +39,10 @@ section.resume-section {
   background-image: url('../img/background_r01.jpg'); 
   background-repeat: no-repeat; 
   background-size: cover; 
-  background-position: 100% 0%;
+  background-position: 85% 0%;
+  h1 {
+    margin-top: 5rem;
+  }
 }
 
 #skills .row {
