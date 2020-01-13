@@ -190,6 +190,11 @@ section.resume-section .col-md-8 .card-body {
   margin-bottom: 2rem;
 }
 
+.scotland-flag {
+  height: 2.0rem;
+  margin-top: -0.5rem;
+}
+
 .bg-primary {
   background-color: #BD5D38 !important;
 }
